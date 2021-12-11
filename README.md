@@ -1,4 +1,4 @@
-# Poll It (Ongoing development)
+# Poll It
 Full stack application for creating and voting for polls<br>
 
 
